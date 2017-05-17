@@ -1,7 +1,8 @@
-# Metodo-burbuja
- 
+# Metodo-burbuja 
+ // al momento de ingresarlo se me desordena, pero lo edito me muestra todo en orden.
  public static void main(String[] args) {
-        Scanner intro = new Scanner(System.in);
+       
+       Scanner intro = new Scanner(System.in);
         int x;
         int aux;
         System.out.println("Ingresar cantidad de numeros");
@@ -26,6 +27,6 @@
         }
         System.out.print("la cant de consultas fueron "+consultas);
         
-    }
+    
 
-}
+ }
