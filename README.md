@@ -1,5 +1,6 @@
 # Metodo-burbuja 
  // al momento de ingresarlo se me desordena, pero lo edito me muestra todo en orden.
+ 
  public static void main(String[] args) {
        
        Scanner intro = new Scanner(System.in);
